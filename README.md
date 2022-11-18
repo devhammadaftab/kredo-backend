@@ -22,6 +22,8 @@ database: kredo,
 host: localhost,
 dialect: postgres
 
+### `cd src`
+
 ### `npx sequelize-cli db:migrate`
 
 It will auto create the tables inside the database
